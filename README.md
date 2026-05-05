@@ -10,3 +10,4 @@ The F1 score chart shows that, as analysed before, it is a near-perfect performa
 
 Conclusion:
 Based on these results, TF-IDF +SVM is the recommended model for this task It has achieved perfect performance while also maintaining a good training and inference time.
+
